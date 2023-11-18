@@ -1,5 +1,6 @@
 class DynamicArray:
-    """Implementing dynamic array
+    """
+    Implementing dynamic array
     using static arrays in python.
     """
 
