@@ -10,15 +10,15 @@ class DynamicArray:
         self.arr = [None] * self.capacity
 
     # get the number of values in array.
-    def getSize(self) -> int:
+    def get_size(self) -> int:
         return self.length
     
     # get the size of array, i.e, the number of elements it can store.
-    def getCapacity(self) -> int:
+    def get_capacity(self) -> int:
         return self.capacity
     
     # returns complete array.
-    def getArray(self) -> list:
+    def get_array(self) -> list:
         return self.arr
     
     # returns the element at index i.
