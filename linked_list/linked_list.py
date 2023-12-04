@@ -6,7 +6,7 @@ class Node:
 
 class LinkedList:
     """
-    Implementing singly linked list in python (in progress)
+    Implementing singly linked list in python
     """
     def __init__(self) -> None:
         self.head = None
